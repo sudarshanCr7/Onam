@@ -1,0 +1,20 @@
+
+body{
+    text-align: center;
+    background: linear-gradient(yellow,red);
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+   
+}
+.rangoli_head{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.rangoli_head i{
+    float: right;
+}
